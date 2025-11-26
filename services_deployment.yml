@@ -15,7 +15,7 @@ spec:
         app: sum
     spec:
       nodeSelector:
-        PoP: space_2
+        PoP: space_1
       imagePullSecrets:
       - name: repo-key
       containers:
